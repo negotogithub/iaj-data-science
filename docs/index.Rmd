@@ -1,0 +1,80 @@
+---
+title: "パッケージ活用コード例"
+author: "日本アクチュアリー会 データサイエンス基礎調査WG"
+---
+
+***
+## ユーティリティ
+
+- ### データの操作
+[dplyr](dplyr.html)  
+  
+
+- ### データセット
+[CASdatasets]() /
+[mlbench]() /
+[palmarpenguins]()
+
+
+
+***
+## データの可視化
+
+- ### ggplot2関係
+[ggplot2]() /
+[gghighlight]()  
+
+
+
+***
+## 予測モデリング
+
+- ### GLM・正則化GLM・GAM
+[glmnet]() /
+[gam]() /
+[aglm]()
+
+- ### 決定木系予測モデル
+[randomForest]() /
+[ranger](ranger.html) /
+[xgboost]() /
+[lightgbm]()
+
+- ### その他の予測モデル
+[nnet]() /
+[kknn]()
+
+- ### 予測モデルの可視化
+[pdp]() /
+[DALEX](DALEX.html) /
+[iml]() /
+[ale]()
+
+
+
+***
+## 保険数理
+
+- ### 生命表・生命関数
+[lifecontingencies]() /
+[demography]() /
+[StMoMo]()
+
+- ### 支払備金
+[ChainLadder]()
+
+***
+## ファイナンス
+
+- ### 金利モデリング
+
+- ### 株式市場モデリング
+
+
+
+***
+## 数理統計学一般
+
+
+
+
